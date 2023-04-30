@@ -1,6 +1,6 @@
 :root{
     --font-primary: "更紗黑體 UI TC Semibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-display: "更紗黑體 UI TC Semibold", "ABC Ginto Normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: var(--font-primary) !important;
     --font-headline: "更紗黑體 UI TC Semibold", "ABC Ginto Nord", "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 :lang(ko),:root{
