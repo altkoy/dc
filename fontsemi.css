@@ -1,0 +1,32 @@
+:root{
+    --font-primary: "更紗黑體 UI TC Semibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "更紗黑體 UI TC Semibold", "ABC Ginto Normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "更紗黑體 UI TC Semibold", "ABC Ginto Nord", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+:lang(ko),:root{
+    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
+}
+:lang(ko){
+    --font-primary: "Sarasa UI K Semibold", "Apple SD Gothic Neo", NanumBarunGothic, "Malgun Gothic", Gulim, Dotum, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "Sarasa UI K Semibold", "ABC Ginto Normal", "Apple SD Gothic Neo", NanumBarunGothic, "Malgun Gothic", Gulim, Dotum, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "Sarasa UI K Semibold", "ABC Ginto Nord", "Apple SD Gothic Neo", NanumBarunGothic, "Malgun Gothic", Gulim, Dotum, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+:lang(ja){
+    --font-primary: "Sarasa UI J Semibold", "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "Sarasa UI J Semibold", "ABC Ginto Normal", "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "Sarasa UI J Semibold", "ABC Ginto Nord", "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+:lang(ja),:lang(zh-cn){
+    --font-code: "Sarasa UI J Semibold", "Sarasa UI SC", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
+}
+:lang(zh-cn){
+    --font-primary: "Sarasa UI SC Semibold", "Microsoft YaHei New", "Microsoft Yahei", "Microsoft JhengHei", SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "Sarasa UI SC Semibold", "ABC Ginto Normal", "Microsoft YaHei New", "Microsoft Yahei", "Microsoft JhengHei", SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "Sarasa UI SC Semibold", "ABC Ginto Nord", "Microsoft YaHei New", "Microsoft Yahei", "Microsoft JhengHei", SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+:lang(zh-tw){
+    --font-primary:"更紗黑體 UI TC Semibold", "Microsoft JhengHei", "Microsoft JhengHei UI", "Microsoft YaHei", SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "更紗黑體 UI TC Semibold","ABC Ginto Normal", "Microsoft JhengHei", "Microsoft JhengHei UI", "Microsoft YaHei", SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "更紗黑體 UI TC Semibold", "ABC Ginto Nord", "Microsoft JhengHei", "Microsoft JhengHei UI", "Microsoft YaHei", SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
+}
